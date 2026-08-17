@@ -7,4 +7,5 @@
 | `ninja` | `7+` | 静态 |
 | `rpds_py` | `7+` | 静态 |
 | `numpy` | `7+` | 动态 |
+| `shapely` | `7+` | 静态 |
 | `cryptography` | `11+` | 静态 |
