@@ -3,4 +3,7 @@
 | ------ | ------ |
 | `cffi` | `7+` |
 | `maturin` | `7+` |
+| `pygame` | `7+` |
+| `ninja` | `7+` |
+| `rpds_py` | `7+` |
 | `cryptography` | `11+` |
