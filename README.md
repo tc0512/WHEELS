@@ -14,6 +14,7 @@
 | `mapbox_earcut` | `7+` | 静态 |
 | `moderngl` | `7+` | 静态 |
 | `pyglm` | `7+` | 静态 |
+| `kiwisolver` | `7+` | 静态 |
 | `cryptography` | `11+` | 静态 |
 | `srt` | 全平台 | 纯Python |
 | `watchdog` | 全平台 | 纯Python |
