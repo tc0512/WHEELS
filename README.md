@@ -8,4 +8,12 @@
 | `rpds_py` | `7+` | 静态 |
 | `shapely` | `7+` | 动态 |
 | `pandas` | `7+` | 动态 |
+| `audioop_lts` | `7+` | 静态 |
+| `av` | `7+` | 动态 |
+| `glcontext` | `7+` | 静态 |
+| `mapbox_earcut` | `7+` | 静态 |
+| `moderngl` | `7+` | 静态 |
+| `pyglm` | `7+` | 静态 |
 | `cryptography` | `11+` | 静态 |
+| `srt` | 全平台 | 纯Python |
+| `watchdog` | 全平台 | 纯Python |
