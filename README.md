@@ -22,6 +22,7 @@
 | `pyzmq` | `7+` | 动态 |
 | `tokenizers` | `7+` | 静态 |
 | `tornado` | `7+` | 静态 |
+| `pyqt5_sip` | `7+` | 静态 |
 | `cryptography` | `11+` | 静态 |
 | `srt` | 全平台 | 纯Python |
 | `watchdog` | 全平台 | 纯Python |
